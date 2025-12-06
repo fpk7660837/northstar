@@ -55,6 +55,7 @@
 		<module>northstar-intelligence</module>
 		<module>northstar-strategy-example</module>
 		<module>northstar-main</module>
+		<module>northstar-external-chan</module>
 	</modules>
 
 	<dependencyManagement>

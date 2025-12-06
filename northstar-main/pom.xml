@@ -104,6 +104,12 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+
+        <dependency>
+            <groupId>com.lightquant</groupId>
+            <artifactId>northstar-external-chan</artifactId>
+            <version>${revision}</version>
+        </dependency>
 	</dependencies>
 
 	<profiles>

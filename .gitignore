@@ -45,3 +45,5 @@ build/
 northstar-rl/python-app/models
 .flattened-pom.xml
 /data/
+
+northstar-external-chan
